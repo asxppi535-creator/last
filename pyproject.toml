@@ -1,2 +1,3 @@
 [tool.vercel]
 entrypoint = "flask_ingest:app"
+python = "^3.11"
